@@ -13,8 +13,8 @@
 * Cross platform programs with Java
 * Backend servers with Ruby or Node.js
 * Database managment
-..* SQL: phpMyAdmin
-..* NoSQL: firebase
+  * SQL: phpMyAdmin
+  * NoSQL: firebase
 * Design with Adobe XD or Sketch
 * Distribute Apps with iTunes Connect
 * Analyze usage with fabric and Crashlytics
