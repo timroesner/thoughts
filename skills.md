@@ -4,7 +4,7 @@
 * Deliver a talk or presentation to an audience with ease
 * Determination and knowledge to solve problems
 * Able to learn new technologies in a fast paced enviorment
-* Mentor other's based on my previous expiriences
+* Mentor other's based on my previous experiences
 * Comprehend abstract concepts and put them into critical thought
 
 
